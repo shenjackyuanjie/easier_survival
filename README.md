@@ -1,6 +1,7 @@
 感谢使用easier_survival
 
-当前版本：0.1.0
+#版本列表：
+0.1.0
 
 BUG展示：
 
@@ -22,7 +23,6 @@ BUG主要原因：
 
 目前的解决方案：
 禁用“Shulker Preview Data Pack”数据包
-
 不用“class item”的功能
 
 
