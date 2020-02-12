@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "X  ",
+    "   ",
+    "   "
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:nether_bricks"
+    }
+  },
+  "result": {
+    "item": "minecraft:nether_brick",
+	"count":4
+  }
+}
