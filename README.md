@@ -22,7 +22,7 @@ BUG主要原因：
 
 目前的解决方案：
 禁用“Shulker Preview Data Pack”数据包
-或
+
 不用“class item”的功能
 
 
