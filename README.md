@@ -30,9 +30,9 @@ BUG主要原因：
 
 1：
 Xe_Kr
-免跑图合成、返还材料、懒人合成数据包
-by XeKr：https://pan.baidu.com/s/1bjNtXWLgdSEKLi_hfNaNIA
-（略有修改和添加）
+免跑图合成、返还材料、懒人合成数据包by XeKr：
+https://pan.baidu.com/s/1bjNtXWLgdSEKLi_hfNaNIA
+（略有一点点的修改和一大堆的添加）
 视频：https://www.bilibili.com/video/av66500129
 
 2：
