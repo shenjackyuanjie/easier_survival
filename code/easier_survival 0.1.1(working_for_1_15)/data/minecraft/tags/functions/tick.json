@@ -1,0 +1,9 @@
+{
+	"replace": false,
+	"values": [
+		"vimi:tick",
+		"trcp:tick",
+		"cli:tick",
+		"shenjack:tick"
+	]
+}

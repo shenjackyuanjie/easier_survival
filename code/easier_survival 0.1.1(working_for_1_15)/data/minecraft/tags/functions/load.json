@@ -1,0 +1,9 @@
+{
+	"replace": false,
+	"values": [
+		"vimi:load",
+		"trcp:load",
+		"shenjack:load",
+		"cli:load"
+	]
+}
