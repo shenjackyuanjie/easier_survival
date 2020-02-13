@@ -1,0 +1,13 @@
+{
+	"criteria": {
+		"diamond_block": {
+			"trigger": "minecraft:placed_block",
+			"conditions": {
+				"block": "minecraft:diamond_block"
+			}
+		}
+	},
+	"rewards": {
+		"function": "cli:put_diamond_block"
+	}
+}
