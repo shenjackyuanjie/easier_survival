@@ -4,6 +4,7 @@
 		"vimi:load",
 		"trcp:load",
 		"shenjack:load",
-		"cli:load"
+		"cli:load",
+		"container:load"
 	]
 }
