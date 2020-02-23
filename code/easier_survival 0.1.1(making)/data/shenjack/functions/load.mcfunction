@@ -12,3 +12,5 @@ kill @e[type=bat]
 spawn mobcaps set 70
 spawn rates water_creature 1
 #
+
+scoreboard objectives add mining minecraft.used:minecraft.diamond_pickaxe "挖掘榜（钻石稿）"
