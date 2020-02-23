@@ -11,3 +11,4 @@ kill @e[type=bat]
 
 scoreboard objectives add mining minecraft.used:minecraft.diamond_pickaxe "挖掘榜（钻石稿）"
 scoreboard objectives setdisplay sidebar mining
+# 简易的挖掘榜记录器
