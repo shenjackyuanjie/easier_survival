@@ -9,8 +9,5 @@ spawn rates ambient 0
 kill @e[type=bat]
 # 清除蝙蝠，减少卡顿
 
-spawn mobcaps set 70
-spawn rates water_creature 1
-#
-
 scoreboard objectives add mining minecraft.used:minecraft.diamond_pickaxe "挖掘榜（钻石稿）"
+scoreboard objectives setdisplay sidebar mining
