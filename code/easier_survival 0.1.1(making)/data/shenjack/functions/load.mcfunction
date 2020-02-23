@@ -12,3 +12,6 @@ kill @e[type=bat]
 scoreboard objectives add mining minecraft.used:minecraft.diamond_pickaxe "挖掘榜（钻石稿）"
 scoreboard objectives setdisplay sidebar mining
 # 简易的挖掘榜记录器
+
+scoreboard objectives add been_kill deathCount "死亡榜"
+# 你懂的：死 亡 榜
