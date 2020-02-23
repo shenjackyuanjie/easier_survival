@@ -7,7 +7,7 @@ scoreboard objectives setdisplay list hp
 
 spawn rates ambient 0
 kill @e[type=bat]
-# 清除蝙蝠，减少卡顿
+# 清除蝙蝠，减少卡顿（需要地毯端）
 
 scoreboard objectives add mining minecraft.used:minecraft.diamond_pickaxe "挖掘榜（钻石稿）"
 scoreboard objectives setdisplay sidebar mining

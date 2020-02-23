@@ -1,2 +1,2 @@
-function shenjack:machine/plants_cutter
+# 没东西了
 # 机器检测
