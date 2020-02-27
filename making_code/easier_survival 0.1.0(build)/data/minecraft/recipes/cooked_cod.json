@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smelting",
-  "ingredient": {
-    "item": "minecraft:cod"
-  },
-  "result": "minecraft:cooked_cod",
-  "experience": 1.0,
-  "cookingtime": 100
-}
