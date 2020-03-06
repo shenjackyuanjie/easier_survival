@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:yellow_concrete_powder"
+  },
+  "result": "minecraft:yellow_concrete",
+  "experience": 2.0,
+  "cookingtime": 50
+}

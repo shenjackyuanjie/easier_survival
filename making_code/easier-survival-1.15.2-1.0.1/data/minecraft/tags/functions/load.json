@@ -1,0 +1,9 @@
+{
+	"replace": false,
+	"values": [
+		"trcp:load",
+		"shenjack:load",
+		"cli:load",
+		"container:load"
+	]
+}

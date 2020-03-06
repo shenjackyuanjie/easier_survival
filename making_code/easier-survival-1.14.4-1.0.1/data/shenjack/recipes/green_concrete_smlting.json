@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:green_concrete_powder"
+  },
+  "result": "minecraft:green_concrete",
+  "experience": 2.0,
+  "cookingtime": 50
+}

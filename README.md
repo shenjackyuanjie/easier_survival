@@ -1,12 +1,6 @@
 感谢使用easier_survival
 
-版本列表：
-
-easier-survival-1.14.4-1.0.0
-
-easier-survival-1.15.2-1.0.0
-
-
+功能：
 
 when your off hand was having a hopper , your xp can change to "experience_bottle"
 副手放漏斗，即可将经验值转化为附魔之瓶
