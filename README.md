@@ -6,6 +6,14 @@ easier-survival-1.14.4-1.0.0
 
 easier-survival-1.15.2-1.0.0
 
+
+
+when your off hand was having a hopper , your xp can change to "experience_bottle"
+副手放漏斗，即可将经验值转化为附魔之瓶
+
+(9 xp would be 1 experience_bottle)
+(9经验值转换成一个经验瓶)
+
 数据包引用自：
 
 1：
