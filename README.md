@@ -1,4 +1,4 @@
-感谢使用easier_survival
+# 感谢使用easier_survival
 
 功能：
 
