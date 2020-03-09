@@ -14,10 +14,9 @@ when your off hand was having a hopper , your xp can change to "experience_bottl
 
 1：
 Xe_Kr
-免跑图合成、返还材料、懒人合成数据包by XeKr：
-https://pan.baidu.com/s/1bjNtXWLgdSEKLi_hfNaNIA
-（略有一点点的修改）
-视频：https://www.bilibili.com/video/av66500129
+免跑图合成、返还材料、懒人合成数据包
+by XeKr：  https://pan.baidu.com/s/1bjNtXWLgdSEKLi_hfNaNIA
+video ：https://www.bilibili.com/video/av66500129
 
 2：
 如花似玉的“Crafting plus plus”中的
@@ -34,7 +33,4 @@ http://www.mcbbs.net/thread-696861-1-1.html
 如花似玉的一键挖树
 
 4：
-如花似玉的连锁挖矿
-
-5：
 如花似玉的物品分类器（最新版本）
