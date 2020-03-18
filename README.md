@@ -2,11 +2,11 @@
 
 ## 功能：
 
-when your off hand was having a hopper , your xp can change to "experience_bottle"
 副手放漏斗，即可将经验值转化为附魔之瓶
 
-(9 xp would be 1 experience_bottle)
 (9经验值转换成一个经验瓶)
+
+## 计划加入的功能
 
 ## 数据包引用自：
 
