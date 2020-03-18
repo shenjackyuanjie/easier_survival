@@ -1,36 +1,21 @@
 # 感谢使用easier_survival
 
-功能：
+## 功能：
 
 when your off hand was having a hopper , your xp can change to "experience_bottle"
-
 副手放漏斗，即可将经验值转化为附魔之瓶
 
 (9 xp would be 1 experience_bottle)
-
 (9经验值转换成一个经验瓶)
 
-数据包引用自：
+## 数据包引用自：
 
-1：
-Xe_Kr
+### 1：Xe_Kr
 免跑图合成、返还材料、懒人合成数据包
 by XeKr：  https://pan.baidu.com/s/1bjNtXWLgdSEKLi_hfNaNIA
 video ：https://www.bilibili.com/video/av66500129
 
-2：
-如花似玉的“Crafting plus plus”中的
-“漏斗拿在副手时将经验值转换成附魔之瓶”的功能
-（比率：9经验值=1附魔之瓶）（已经整合，避免冲突）
-（还有很多功能······）（没有使用源代码）
-网址：
-https://github.com/ruhuasiyu/CraftingPlusPlus
-https://www.mcmod.cn/class/1297.html
-http://home.ustc.edu.cn/~zsxqq/craftingpp
-http://www.mcbbs.net/thread-696861-1-1.html
-
-3：
-如花似玉的一键挖树
-
-4：
-如花似玉的物品分类器（最新版本）
+### 2：如花似玉
+蹲下一键砍树（无链接）
+物品分类器（最新版本）（实时更新）
+请支持原作者：GitHub：https://github.com/ruhuasiyu/CraftingPlusPlus.git
