@@ -1,0 +1,1 @@
+execute at @s run summon armor_stand ~ 1 ~ {Invulnerable:1b,Invisible:1b,Small:0b,Marker:1b,NoGravity:1b,DisabledSlots:7967,Tags:["shenjack_mine_main"],Rotation:[0.0f,0.0f]}
