@@ -8,7 +8,4 @@ scoreboard objectives setdisplay list hp
 spawn rates ambient 0
 kill @e[type=bat]
 # 清除蝙蝠，减少卡顿
-
-spawn mobcaps set 70
-spawn rates water_creature 1
 #
