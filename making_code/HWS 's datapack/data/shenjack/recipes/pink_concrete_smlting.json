@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:pink_concrete_powder"
+  },
+  "result": "minecraft:pink_concrete",
+  "experience": 2.0,
+  "cookingtime": 50
+}
